@@ -25,7 +25,7 @@ SECRET_KEY = 'qwtk-hmxb!5fr26_(1m%=**2pb--&+#g840m9b&^b$n9ak7j&g'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS =['mariimeireles.pythonanywhere.com']
 
 
 # Application definition
